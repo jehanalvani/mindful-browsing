@@ -1,4 +1,6 @@
-A chrome extention to beautifully interrupt mindless browsing, and put your time back in your hands.
+A fork of  chrome extention skoczen's Mindful Browsing Chrome extension to beautifully interrupt mindless browsing, and put your time back in your hands. 
+
+My intention is to modifiy this into a Safri extension.
 
 
 Learn more and install from https://mindfulbrowsing.org
